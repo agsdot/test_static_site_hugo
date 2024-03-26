@@ -5,5 +5,5 @@ theme = "ananke"  # You can change this to the theme you prefer
 
 [module]
   [[module.imports]]
-    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+    path = "github.com/agsdot/gohugo-theme-ananke"
     disable=false
