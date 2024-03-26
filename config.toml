@@ -3,6 +3,6 @@ languageCode = "en-us"
 title = "My Static Site Hugo Blog created purely on github.com online"
 
 # Specify theme as a module
-[module]
-  [[module.imports]]
-    path = "github.com/HugoBlox/theme-academic-cv"
+#[module]
+#  [[module.imports]]
+#    path = "github.com/HugoBlox/theme-academic-cv"
