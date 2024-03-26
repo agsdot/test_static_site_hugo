@@ -1,9 +1,8 @@
 baseURL = "https://agsdot.github.io/test_static_site_hugo/"
 languageCode = "en-us"
 title = "My Static Site Hugo Blog created purely on github.com online"
-theme = "ananke"  # You can change this to the theme you prefer
 
+# Specify theme as a module
 [module]
   [[module.imports]]
-    path = "github.com/agsdot/gohugo-theme-ananke"
-    disable=false
+    path = "github.com/HugoBlox/theme-academic-cv"
