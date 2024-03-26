@@ -1,0 +1,4 @@
+baseURL = "https://agsdot.github.io/test_static_site_hugo/"
+languageCode = "en-us"
+title = "My Static Site Hugo Blog created purely on github.com online"
+theme = "ananke"  # You can change this to the theme you prefer
